@@ -1,5 +1,6 @@
 Main(){}
-Func1() { }
+Func1() {
+printf("Node not found"); }
 Func2() { }
 Fun3(){}
 
