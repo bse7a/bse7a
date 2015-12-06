@@ -8,3 +8,7 @@ feature1()
 {
 printf("no available space");
 }
+feature2()
+{
+printf("Feature 2");
+}
